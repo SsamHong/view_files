@@ -1,0 +1,14 @@
+{
+  "恐怖悬疑": {
+    "lora_name": "Kong.safetensors",
+    "trigger_word": "kong_kA"
+  },
+  "美女": {
+    "lora_name": "busty body_v1.0.safetensors",
+    "trigger_word": "busty body"
+  },
+  "耶稣": {
+    "lora_name": "Jesus_v1.0.safetensors",
+    "trigger_word": "god jesus"
+  }
+}
